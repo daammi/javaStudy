@@ -1,2 +1,2 @@
 # javaStudy
-자바 스터디 기록
+Recording Java Study 24.09.23~
